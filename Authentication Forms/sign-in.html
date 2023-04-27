@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <title>02|Sign In</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="style.css" />
+  <!--cdn font-awesome lib link-->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"/>
+</head>
+
+<body>
+  <div class="wrapper">
+    <h1>Sign In</h1>
+    <form>
+      <!--email field-->
+      <input type="email" id="email-input" placeholder="Email" required>
+      <!--password field-->
+      <div class="password-container">
+        <input type="password" id="password_input" placeholder="Password" required>
+        <a class="password-icon" id="password_toggle_icon">
+          <img src="assets/icons/pweyeoff32_icon.png" alt="Not Visible" id="not_visible">
+          <img src="assets/icons/pweyeon32_icon.png" alt="Visible" id="visible" class="hide">
+        </a>
+      </div>
+      <!--password recovery-->
+      <div class="password-recovery">
+        <a href="./password-forgot.html">Forgot Your Password?</a>
+      </div>
+      <!--sign in button-->
+      <button type="submit">Sign In</button>
+      <!--don't have an account / create new account prompt-->
+      <div class="adjacent-prompt">
+        Don't have an account? <a href="./register.html">Create Account</a>
+      </div>
+    </form>
+  </div>
+
+  <!--JavaScript files-->
+  <script src="passwordVisibility.js"></script>
+</body>
+
+</html>
