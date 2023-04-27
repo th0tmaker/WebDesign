@@ -29,7 +29,7 @@ authentication forms for a website or application:**
 
 ### In conclusion:
 
-authentication forms are a crucial design component of any website or application that requires user authentication.
+Authentication forms are a crucial design component of any website or application that requires user authentication.
 They help ensure the security and privacy of users' accounts and personal information.
 This design offers a simple and effective way for the user to navigate through the authetication scope.
 The password and repeat password fields include a toggle eye icon  that allows the user to show or hide their password
