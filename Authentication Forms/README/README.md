@@ -1,7 +1,7 @@
 # Authentication Forms (HTML/CSS/JS Frontend Web Dev)
 
 
-**An authentication form is a user interface element that allows users to sign in, register for a new account,
+**An authentication form is an interface element that allows users to sign in, register for a new account,
 reset their password, or recover a forgotten password.The following images are my designs of the most typical
 authentication forms for a website or application:**
 
