@@ -1,3 +1,9 @@
+[![Github Badge](badges/th0tmaker-github.svg)](https://github.com/th0tmaker)
+
+![HTML5 Badge](badges/html5-badge.svg)
+![CSS3 Badge](badges/css3-badge.svg)
+![Javascript Badge](badges/javascript-badge.svg)
+
 # Authentication Forms (HTML/CSS/JS Frontend Web Dev)
 
 
