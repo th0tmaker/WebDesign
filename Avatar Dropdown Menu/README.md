@@ -14,10 +14,10 @@ without having to navigate through multiple pages or menus.**
 
 ## JavaScript Utility:
 
-* `splitDropUsername.js`: Splits a username into two lines of equal character length and displays them in a
-web page.
+* `splitDropUsername.js`: Splits a username into two lines of equal character length and displays them at the top of the
+avatar menu.
 
-* `toggleAvatarDropMenu.js`: Toggles the visibility of a side menu when an avatar is clicked.
+* `toggleAvatarDropMenu.js`: Toggles the visibility of a drop menu when an avatar is clicked.
 The function uses CSS transitions to fade in or fade out the menu with a specified duration.
 
 * `switchLightDarkTheme.js`: Allows switching between a light and a dark theme based on the user's preference.
