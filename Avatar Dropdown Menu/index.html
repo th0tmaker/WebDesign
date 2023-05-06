@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>05|Avatar Dropdown Menu</title>
+  <!--CSS-->
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+
+<body class="dark-mode">
+  <div class="main">
+    <div class="avatar">
+      <img src="assets/images/defaultavi.png" alt="User Avatar">
+    </div>
+    <!--avatar drop menu-->
+    <div class="avatar-menu">
+      <h2><span id="username">CoolGuyLongUsername</span><br><h5>Online</h5></h2>
+      <ul>
+        <li><img src="assets/icons/home-icon.png" alt="Home">Home</li>
+        <li><img src="assets/icons/user-pen-icon.png" alt="Edit Profile">Edit Profile</li>
+        <li><img src="assets/icons/envelope-icon.png" alt="Inbox">Inbox</li>
+        <li><img src="assets/icons/settings-icon.png" alt="Settings">Settings</li>
+        <li><img src="assets/icons/info-icon.png" alt="Help & Support">Help &amp; Support</li>
+        <li><img src="assets/icons/power-icon.png" alt="Sign Out">Sign Out</li>
+      </ul>
+      <!--toggle theme-->
+      <div class="toggle-wrapper">
+        <span id="toggle_text">Light Mode</span>
+        <label class="toggle-switch">
+          <input type="checkbox" class="toggle-checkbox" id="toggle_checkbox_id">
+          <span class="toggle-slider"></span>
+          <img src="assets/icons/light_mode.svg" alt="Toggle Light" class="toggle-icon">
+          <img src="assets/icons/dark_mode.svg" alt="Toggle Dark" class="toggle-icon">
+        </label>
+      </div>
+    </div>
+  </div>
+
+  <!--JavaScript-->
+  <script src="js/splitDropUserame.js"></script>
+  <script src="js/toggleAvatarDropMenu.js"></script>
+  <script src="js/switchLightDarkTheme.js"></script>
+</body>
+
+</html>
