@@ -36,11 +36,11 @@ It provides a visual cue that allows users to understand they can click on the i
 
 ## Web Tools
 
-* **HTML**: Provides the structure and layout of the user profile page.*
+* **HTML**: Provides the structure and layout of the user profile page.
 
 
 * **CSS**: Defines the styling rules for the page elements, including the avatar picture, upload button,
-and icon pop-up.* 
+and icon pop-up.
 
 
 * **JavaScript**: Implements the functionality for uploading and updating the avatar picture,
