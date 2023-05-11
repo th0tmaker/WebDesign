@@ -57,6 +57,6 @@ To run this project locally, follow these steps:
 
 ## Credits
 
-This project was created by [th0tmaker]((https://github.com/th0tmaker)) as part of a
-[web development]([Markdown Live Preview](https://github.com/th0tmaker/WebDesign)) exercise.
+This project was created by [th0tmaker](https://github.com/th0tmaker)
+as part of a [web development](https://github.com/th0tmaker/WebDesign) exercise.
 It may serve as a starting point for further enhancements and customizations.
